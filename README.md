@@ -1,4 +1,4 @@
-A repo for public resources for https://discordlist.io
+A repo for public resources
 
 # discordlist.io
 [![N|Solid](https://discordapp.com/api/guilds/216713180624322560/embed.png?style=banner3)](https://disli.st/dlm)
